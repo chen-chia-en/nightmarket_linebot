@@ -1,0 +1,21 @@
+[
+    {
+        "store": "温州街蘿蔔絲餅達人",
+        "food":{"蘿蔔絲餅":30, "蔥油餅":25, "蛋餅":35},
+        "menu":"https://i.imgur.com/6gIiZ47.jpg",
+        "address":""
+
+    },
+    {
+        "store": "師大夜市生炒花枝羹",
+        "food":{"生炒花枝羹麵": 120, "生炒鴨肉焿":110, "經典海陸雙人餐":350},
+        "menu":"https://i.imgur.com/oNZE50e.jpg",
+        "address":""
+    },
+    {
+        "store":"魚刺人雞蛋糕-台北師大店",
+        "food":{"魚池紅茶": 65, "鹹鴨蛋黄流沙餡":125, "抹茶紅豆飛燕煉乳":125},
+        "menu":"https://i.imgur.com/oJG78n4.png",
+        "address":""
+    }
+]

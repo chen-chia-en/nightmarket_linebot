@@ -1,0 +1,25 @@
+[
+  {
+    "store":"温州街蘿蔔絲餅達人",
+    "address": "106台北市大安區和平東路一段186-1號",
+    "latitude":25.026486895529235, 
+    "longitude":121.53037285953103,
+    "menu": "https://i.imgur.com/6gIiZ47.jpg"
+  },
+  {
+      "store":"師大夜市生炒花枝羹",
+      "address": "106台北市大安區師大路39巷11號",
+      "latitude":25.027894501860168,
+      "longitude":121.52981442308221,
+      "menu": "https://i.imgur.com/oNZE50e.jpg"
+
+  },
+  {
+    "store":"魚刺人雞蛋糕-台北師大店",
+    "address": "100台北市中正區羅斯福路二段30巷13號",
+    "latitude":25.02818005488566,
+    "longitude":121.52100822548806,
+    "menu": "https://i.imgur.com/oJG78n4.png"
+  }
+  
+]
